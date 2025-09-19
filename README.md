@@ -37,5 +37,5 @@ Busco una empresa que me brinde mi **primera oportunidad en el mundo laboral**, 
 
 ## 📫 Conectemos  
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/joaquin-curbelo-developer/)
+- 💼 [LinkedIn] (https://www.linkedin.com/in/j-coding/)
 - 📧 Email: joacoc-10@hotmail.com 
