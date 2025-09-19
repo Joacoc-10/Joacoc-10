@@ -14,8 +14,7 @@ Durante el último año me dediqué a dominar tecnologías modernas para constru
 - React | Next.js | Express | Tailwind CSS  
 
 **Bases de datos:**  
-- MongoDB
-- PostgreSQL
+- MongoDB | PostgreSQL
 
 **Control de versiones:**  
 - Git | GitHub  
