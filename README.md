@@ -8,13 +8,14 @@ Durante el último año me dediqué a dominar tecnologías modernas para constru
 ## 🛠️ Tecnologías y herramientas  
 
 **Lenguajes:**  
-- JavaScript | TypeScript | HTML | SQL  
+- JavaScript | TypeScript | HTML | CSS 
 
 **Frameworks y Librerías:**  
 - React | Next.js | Express | Tailwind CSS  
 
 **Bases de datos:**  
-- MongoDB  
+- MongoDB
+- PostgreSQL
 
 **Control de versiones:**  
 - Git | GitHub  
